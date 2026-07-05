@@ -52,7 +52,7 @@ For example:
 ```
 | Component | Meaning |
 |---|---|
-| `-` | No permission |
+| `- (anywhere but first character)` | No permission |
 | `r` | Read |
 | `r` | Read |
 | `w` | Write |
@@ -60,7 +60,7 @@ For example:
 
 | Section | Meaning |
 |---|---|
-| `-` | File |
+| `- (first character)` | File |
 | `d` | Directory |
 | `rwx` | Permissions for file owner (Can read, write, execute) |
 | `r-x` | Permissions for group (Can read, cannot write, can execute |
