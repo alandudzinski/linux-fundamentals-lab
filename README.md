@@ -54,7 +54,6 @@ For example:
 |---|---|
 | `- (anywhere but first character)` | No permission |
 | `r` | Read |
-| `r` | Read |
 | `w` | Write |
 | `x` | Execute |
 
