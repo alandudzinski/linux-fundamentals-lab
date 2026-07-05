@@ -15,3 +15,9 @@
 ## 7. Why This Matters For Cybersecurity
 
 ## 8. What I Learned
+
+## References
+- TryHackMe. "Linux Fundamentals." TryHackMe, [https://tryhackme.com/](https://tryhackme.com/module/linux-fundamentals)
+
+## Disclaimer
+This project is for educational purposes only. It summarizes concepts learned through TryHackMe and does not include walkthrough answers, flags, or private room solutions.
